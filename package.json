@@ -1,6 +1,6 @@
 {
   "name": "object-meta",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "description": "Object meta is just a tiny independent library which allows you to model all the object blue print that you can think off.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/ericnguyen13"
+    "url": "https://github.com/ericnguyen13/object-meta.git"
   },
   "keywords": [
     "object-meta"
