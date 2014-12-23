@@ -2,57 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d0f5786-448c-4bf2-94d6-bf4517f9b78a" name="Default" comment="object-meta to repository">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/enguyen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/object-meta.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/objectmeta_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/object-meta" afterPath="$PROJECT_DIR$/object-meta" />
     </list>
     <list id="a5609a06-fa44-445c-b484-e38bab9fbd36" name="Rejected commit: Default" comment="object-meta to repository" />
-    <list id="656a9358-df56-40dc-af60-cbdfd91c5a80" name="Failed commit: Default" comment="object-meta to repository">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/clone/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/clone/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/clone/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/clone/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/TypeChecker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/atLeastOneItemValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/clone/clone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/constants/constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/displayValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/inRangeValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/object-assign/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/dist/lodash.compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/dist/lodash.compat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/lodash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/dist/lodash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/dist/lodash.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/dist/lodash.underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/dist/lodash.underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/factories/modelFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/noSpacingValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/factories/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/factories/nodeFactory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/onlyNumberValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/clone/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/object-assign/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/object-assign/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/regularExpressionValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/requireValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/clone/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/validator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/validators/validatorFactory.js" />
-    </list>
+    <list id="656a9358-df56-40dc-af60-cbdfd91c5a80" name="Failed commit: Default" comment="object-meta to repository" />
     <ignored path="objectmeta.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
