@@ -1,0 +1,23 @@
+{
+  "name": "object-meta",
+  "version": "2.1.2",
+  "description": "Object meta is just a tiny independent library which allows you to model all the object blue print that you can think off.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ericnguyen13"
+  },
+  "keywords": [
+    "object-meta"
+  ],
+  "author": "Eric Nguyen",
+  "license": "Free to all users",
+  "dependencies": {
+    "clone": "^0.2.0",
+    "lodash": "^2.4.1",
+    "object-assign": "^2.0.0"
+  }
+}
